@@ -1,6 +1,8 @@
 ### Custom ###
 /src/main/java/com/agony/aiagent/demo/invoke/TestApiKey.java
 
+application-local.yaml
+
 
 HELP.md
 target/
